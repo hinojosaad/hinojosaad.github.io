@@ -8,7 +8,7 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 
 - SCI DF (Volunteer)
 - BYMAT (Chair of Scientific Comittee)
-- Festival Matemático
+- Festival Matemático (Volunteer) 
 
 
 
