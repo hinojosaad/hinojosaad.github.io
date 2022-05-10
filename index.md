@@ -12,7 +12,7 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 
 
 
-##More info avaible soon.
+## More info avaible soon.
 
 <!-- You can use the [editor on GitHub](https://github.com/hinojosaad/hinojosaad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
