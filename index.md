@@ -7,8 +7,8 @@ I recently finished my Phd Mathematics at Universitat de Barcelona and I'm curre
 I'm passionate about Science and its dissemination, in the past I've been part of the following initiatives:
 
 - [SCI DF](https://www.linkedin.com/company/scientists-dating-forum) (Volunteer)
-- [BYMAT](https://temat.es/monograficos/issue/view/vol-2) (Chair of Scientific Comittee)
-- [Somos científicos sácanos de aquí](https://calcio.somoscientificos.es/profile/adrianhinojosa/)(Contestant)
+- [BYMAT](https://temat.es/monograficos/issue/view/vol-2) (Chair of the Scientific Comittee)
+- [Somos científicos sácanos de aquí](https://calcio.somoscientificos.es/profile/adrianhinojosa/) (Contestant)
 - [Festival Matemático](http://festival.matem.unam.mx/) (Volunteer) 
 
 
