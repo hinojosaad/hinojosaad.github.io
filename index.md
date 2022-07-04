@@ -12,7 +12,7 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 - [Festival Matemático](http://festival.matem.unam.mx/) (Volunteer) 
 
 # Active Projects
-- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) (Time Series Forecasting)
+- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) (Time Series Forecasting, in Spanish)
 
 # Finished Projects
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) (Classification)
