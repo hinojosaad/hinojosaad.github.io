@@ -11,6 +11,11 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 - [Somos científicos sácanos de aquí](https://calcio.somoscientificos.es/profile/adrianhinojosa/) (Contestant)
 - [Festival Matemático](http://festival.matem.unam.mx/) (Volunteer) 
 
+# Active Projects
+- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) (Time Series Forecasting)
+
+# Finished Projects
+- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) (Classification)
 
 
 ## More info avaible soon.
