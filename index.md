@@ -15,7 +15,7 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) (Time Series Analysis)
 
 # Finished Projects
-- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) (Classification, in Spanish)
+- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I):3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 
 
 ## More info avaible soon.
