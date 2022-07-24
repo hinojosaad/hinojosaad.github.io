@@ -11,6 +11,10 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 - [Somos científicos sácanos de aquí](https://calcio.somoscientificos.es/profile/adrianhinojosa/) (Contestant)
 - [Festival Matemático](http://festival.matem.unam.mx/) (Volunteer) 
 
+# CV
+
+You can take a loOk of my CV here [CV](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV%20(9).pdf)
+
 # Current Projects
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for Data Science It Academy Certificate (Time Series Analysis)
 
