@@ -22,7 +22,6 @@ You can take a loOk of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I):3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 
 
-## More info avaible soon.
 
 <!-- You can use the [editor on GitHub](https://github.com/hinojosaad/hinojosaad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
