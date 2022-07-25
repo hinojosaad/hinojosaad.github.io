@@ -1,17 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 title: Adrián Hinojosa Calleja
 logo: vectlogoAHC.png
 
-social_links:
-    twitter: jekyllrb
-    github: jekyll
-    stackoverflow: "11111"
-    dribbble: jekyll
-    facebook: jekyll
-    flickr: jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    telegram: jekyll
-    microdotblog: jekyll
-    keybase: jekyll
+#theme: jekyll-theme-minimal
