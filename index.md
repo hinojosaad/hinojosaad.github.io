@@ -2,7 +2,7 @@
 
 # Who I am
 
-I recently finished my Phd Mathematics at Universitat de Barcelona and I'm currently doing a Data Science specialization at IT Academy. I do research in Probability, more specifically in Stochastic Partial Differential Equations.
+I recently finished my Phd Mathematics at Universitat de Barcelona and I'm currently doing a Data Science specialization at IT Academy. I do research in Probability, more specifically in Stochastic Partial Differential Equations. I do Data Science (see my data projects bellow!).
 
 I'm passionate about Science and its dissemination, in the past I've been part of the following initiatives:
 
@@ -20,7 +20,7 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 - [Cancer de mama](https://github.com/hinojosaad/Cancer-de-mama-classificacio) Classification challenge proposed by Challenge for qualifying to the IT-Academy's and Decathlon Hackathon (Classification, in Catalan)
 
 # Finished Projects
-- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I):3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
+- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 
 
 
