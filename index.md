@@ -26,7 +26,7 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 
 # Finished Projects
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
-- [Cancer de mama](https://github.com/hinojosaad/Cancer-de-mama-classificacio) Classification challenge proposed by Challenge for qualifying to the IT-Academy's and Decathlon Hackathon (Classification, in Catalan)
+- [Cancer de mama](https://github.com/hinojosaad/Cancer-de-mama-classificacio) Classification challenge required for qualifying to the IT-Academy's and Decathlon Hackathon (Classification, in Catalan)
 
 
 <!-- You can use the [editor on GitHub](https://github.com/hinojosaad/hinojosaad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
