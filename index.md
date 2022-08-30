@@ -21,10 +21,11 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Uploaded August 2022)
 
 # Current Projects
-- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
+
 
 
 # Finished Projects
+- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 - [Cancer de mama](https://github.com/hinojosaad/Cancer-de-mama-classificacio) Classification challenge required for qualifying to the IT-Academy's and Decathlon Hackathon (Classification, in Catalan)
 
