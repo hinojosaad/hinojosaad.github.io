@@ -21,7 +21,7 @@ I'm passionate about Science and its dissemination, in the past I've been part o
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Uploaded August 2022)
 
 # Current Projects
-- [Staistical_Inference](https://github.com/hinojosaad/statistical_inference) I'm relearning Statistical Inference!
+- [Statistical_Inference](https://github.com/hinojosaad/statistical_inference) I'm relearning Statistical Inference!
 
 
 # Finished Projects
