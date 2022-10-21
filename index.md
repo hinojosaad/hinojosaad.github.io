@@ -2,7 +2,7 @@
 
 # Who I am
 
-More info soon
+Take a look of my current and previous Data Science projects below. More info about me avaiable soon!
 
 
 # Contact me
