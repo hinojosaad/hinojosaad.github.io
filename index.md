@@ -1,7 +1,8 @@
 ## Welcome to Adrián Hinojosa Calleja's web
 
+# Who I am
 
-[comment]: <> (# Who I amI recently finished a PhD Mathematics at Universitat de Barcelona and a Data Science specialization at IT Academy. I do research in Probability, more specifically in Stochastic Partial Differential Equations. I do Data Science (see a selection of my projects bellow!).)
+[//] : #( I recently finished a PhD Mathematics at Universitat de Barcelona and a Data Science specialization at IT Academy. I do research in Probability, more specifically in Stochastic Partial Differential Equations. I do Data Science (see a selection of my projects bellow!).)
 
 
 # Contact me
