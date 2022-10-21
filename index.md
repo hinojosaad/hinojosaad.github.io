@@ -4,7 +4,7 @@
 
 I recently finished a PhD Mathematics at Universitat de Barcelona and a Data Science specialization at IT Academy. I do research in Probability, more specifically in Stochastic Partial Differential Equations. I do Data Science (see a selection of my projects bellow!).
 
-I'm passionate about Science and its dissemination, in the past I've been part of the following initiatives:
+[//]: <> (I'm passionate about Science and its dissemination, in the past I've been part of the following initiatives:)
 
 - [SCI DF](https://www.linkedin.com/company/scientists-dating-forum) (Volunteer)
 - [BYMAT](https://temat.es/monograficos/issue/view/vol-2) (Chair of the Scientific Comittee)
