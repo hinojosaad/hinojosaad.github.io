@@ -2,7 +2,7 @@
 
 # Who I am
 
-More information soon
+More info soon
 
 
 # Contact me
@@ -22,6 +22,12 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 - [Cancer de mama](https://github.com/hinojosaad/Cancer-de-mama-classificacio) Classification challenge required for qualifying to the IT-Academy's and Decathlon Hackathon (Classification, in Catalan)
+
+# Publications
+- Hinojosa-Calleja, A. (2022). Exact uniform modulus of continuity for q-isotropic Gaussian random fields. arXiv preprint arXiv:2210.08584.
+- Hinojosa-Calleja, A. and Sanz-Solé, M. (2022). A linear stochastic biharmonic heat equation: hitting probabilities. Stoch. PDE: Anal. Comp., 10(3):735–756.
+- Hinojosa-Calleja, A. and Sanz-Solé, M. (2021). Anisotropic Gaussian random fields: criteria for hitting probabilities and applications. Stoch. PDE: Anal. Comp., 9(4):984–1030.
+
 
 
 <!-- You can use the [editor on GitHub](https://github.com/hinojosaad/hinojosaad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
