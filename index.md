@@ -12,7 +12,7 @@ Take a look of my current and previous Data Science projects below. More info ab
 
 # CV
 
-You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Uploaded October 2022)
+You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated October 2022)
 
 # Current Projects
 - [Statistical_Inference](https://github.com/hinojosaad/statistical_inference) I'm relearning Statistical Inference!
