@@ -20,7 +20,7 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 
 # Selection of Finished Projects
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
-- [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithm,Economics,Time Series Analysis)
+- [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 
 # Publications
