@@ -2,7 +2,7 @@
 
 # Who I am
 
-Take a look of my current and previous Data Science projects below. More info about me avaiable soon!
+I love Data! I have PhD in Probability and Statistics, and a Data Science specialization. I have worked on a variety of projects that include the following topics: Time Series Forecasting, Machine Learning, and Gaussian Noises Analysis. 
 
 
 # Contact me
