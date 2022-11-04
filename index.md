@@ -14,11 +14,7 @@ I love Data! I have a PhD in Probability and Statistics, and a Data Science spec
 
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated October 2022)
 
-# Current Projects
-- [Statistical_Inference](https://github.com/hinojosaad/statistical_inference) I'm relearning Statistical Inference!
-
-
-# Selection of Finished Projects
+# Selection of Projects
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)
