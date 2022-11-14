@@ -14,7 +14,10 @@ I love Data! I have a PhD in Probability and Statistics, and a Data Science spec
 
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated October 2022)
 
-# Selection of Projects
+# Projects under development 
+- [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Analysis from the distribution of the Mexico City's Goverment employees in November 2022 (Power BI, in Spanish)
+
+# Finished projects
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) :3rd_place_medal: 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
 - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)
