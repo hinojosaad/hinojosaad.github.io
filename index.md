@@ -15,7 +15,7 @@ I'lloking for a job and I love Data! I have a PhD in Probability and Statistics,
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated October 2022)
 
 # Projects under development 
-- [Learning_SQL](https://github.com/hinojosaad/Learning_SQL)I'm improving my SQL skills by means of solving some fun exercises! (SQL)
+- [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)
 
 # Finished projects
 - [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Analysis from the distribution of the Mexico City's Goverment employees in November 2022 (Power BI, in Spanish)
