@@ -2,7 +2,7 @@
 
 # Who I am
 
-I'm looking for a job and I love Data! I have a PhD in Probability and Statistics, and a Data Science specialization certificate. I have worked on a variety of projects that include the following topics: Time Series Forecasting, Machine Learning, and Gaussian Noises Analysis. 
+I'm looking for a new job and I love Data! I have a PhD in Probability and Statistics. I have worked on a variety of projects that include the following topics: Time Series Forecasting, Machine Learning, and Gaussian Noises Analysis. 
 
 
 # Contact me
