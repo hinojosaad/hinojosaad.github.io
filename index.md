@@ -12,7 +12,7 @@ I'm looking for a new job and I love Data! I have a PhD in Probability and Stati
 
 # CV
 
-You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated October 2022)
+You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated November 2022)
 
 # Projects under development 
 - [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)
