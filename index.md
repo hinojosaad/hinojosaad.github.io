@@ -17,10 +17,10 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 - [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)-->
 
 # Projects
-- [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Salaries analysis distribution of the Mexico City Government public servants.  (Power BI, in Spanish)
+- [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Salaries analysis distribution of the Mexico City Government public servants.  (Power BI; in Spanish)
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Time Series Forecasting of NO2 and PM10 mean daily concentrations in a neighborhood of Barcelona. 
 (Python: matplotlib, pandas; R: fpp2, tseries)
-- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) Classification model to predict the states of turbulence from a space rocket.   (Classification model to predict the states of turbulence from a space rocket.  , in Spanish)
+- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) Classification model to predict the states of turbulence from a space rocket.   (Python: pandas, seaborn, sklearn; in Spanish)
 <!-- - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)-->
 
 # Publications
