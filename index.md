@@ -16,11 +16,12 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 <!--# Projects under development 
 - [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)-->
 
-# Finished projects
-- [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Analysis from the distribution of the Mexico City's Goverment employees in November 2022 (Power BI, in Spanish)
-- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Final Project for getting the Data Science It Academy Certificate (Time Series Analysis)
-- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) 3rd place of the Talent Squad-Data Science Challenge (Classification, in Spanish)
-- [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)
+# Projects
+- [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Salaries analysis distribution of the Mexico City Government public servants.  (Power BI, in Spanish)
+- [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Time Series Forecasting of NO2 and PM10 mean daily concentrations in a neighborhood of Barcelona. 
+(Python: matplotlib, pandas; R: fpp2, tseries)
+- [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) Classification model to predict the states of turbulence from a space rocket.   (Classification model to predict the states of turbulence from a space rocket.  , in Spanish)
+<!-- - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)-->
 
 # Publications
 - Hinojosa-Calleja, A. (2022). Exact uniform modulus of continuity for q-isotropic Gaussian random fields. arXiv preprint arXiv:2210.08584.
