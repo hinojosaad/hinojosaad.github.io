@@ -2,7 +2,7 @@
 
 # Who I am
 
-I'm looking for a new job and I love Data! I have a PhD in Probability and Statistics. I have worked on a variety of projects that include the following topics: Time Series Forecasting, Machine Learning, and Gaussian Noises Analysis. 
+A certified Data Scientist with +5 years of international experience researching in Probability and Statistics.  I have worked on a variety of projects that include the following topics: Time Series Forecasting, Machine Learning, and Gaussian Noises Analysis. +10 years teaching Mathematics courses at different educational levels.
 
 
 # Contact me
