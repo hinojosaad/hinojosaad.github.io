@@ -2,19 +2,19 @@
 
 # Who I am
 
-A certified Data Scientist with +5 years of international experience researching in Probability and Statistics.  I have worked on a variety of projects that include the following topics: Time Series Forecasting, Machine Learning, and Gaussian Noises Analysis. +10 years teaching Mathematics courses at different educational levels.
+Junior Data Scientist at [Gantabi One Click](https://gantabioneclick.com/en/). +5 years researching in Probability and Statistics. +10 years teaching Mathematics courses at different educational levels.
 
 
 # Contact me
 
 - LinkedIn: [adhinojosa](https://www.linkedin.com/in/adhinojosa/)
-- email: hinojosa.a (at) gmail.com
+- email: adrian.hinojosa (at) gantabi.com
 
 # CV
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated November 2022)
 
 <!--# Projects under development 
-- [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)-->
+- [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)
 
 # Projects
 - [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Salaries analysis distribution of the Mexico City Government public servants.  (Power BI; in Spanish)
@@ -22,6 +22,7 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 (Python: matplotlib, pandas; R: fpp2, tseries)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) Classification model to predict the states of turbulence from a space rocket.   (Python: pandas, seaborn, sklearn; in Spanish)
 <!-- - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)-->
+-->
 
 # Publications
 - Hinojosa-Calleja, A. (2022). Exact uniform modulus of continuity for q-isotropic Gaussian random fields. arXiv preprint arXiv:2210.08584.
