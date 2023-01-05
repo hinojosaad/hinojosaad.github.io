@@ -11,7 +11,7 @@ Junior Data Scientist at [Gantabi One Click](https://gantabioneclick.com/en/). +
 - email: adrian.hinojosa (at) gantabi.com
 
 # CV
-You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated November 2022)
+You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated January 2023)
 
 <!--# Projects under development 
 - [Learning_SQL](https://github.com/hinojosaad/Learning_SQL) I'm improving my SQL skills by means of solving some fun exercises! (SQL)
