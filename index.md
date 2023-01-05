@@ -21,8 +21,8 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 - [BCN_AIRE](https://github.com/hinojosaad/BCN_AIRE) Time Series Forecasting of NO2 and PM10 mean daily concentrations in a neighborhood of Barcelona. 
 (Python: matplotlib, pandas; R: fpp2, tseries)
 - [Talent_Squad-Data_Science](https://github.com/hinojosaad/Talent_Squad-Data_Science_I) Classification model to predict the states of turbulence from a space rocket.   (Python: pandas, seaborn, sklearn; in Spanish)
-<!-- - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)-->
--->
+ - [Damavis-Challege](https://github.com/hinojosaad/BCN_AIRE](https://github.com/hinojosaad/Damavis-Challenge)) My solution for the Damavis Data Scientist Challenge (Algorithmics, Economics, Time Series Analysis)-->
+
 
 # Publications
 - Hinojosa-Calleja, A. (2022). Exact uniform modulus of continuity for q-isotropic Gaussian random fields. arXiv preprint arXiv:2210.08584.
