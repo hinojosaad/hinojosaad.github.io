@@ -2,7 +2,7 @@
 
 # Who I am
 
-Junior Data Scientist at [Gantabi One Click](https://gantabioneclick.com/en/). +5 years researching in Probability and Statistics. +10 years teaching Mathematics courses at different educational levels.
+Junior Data Scientist at [Gantabi One Click](https://gantabioneclick.com/en/). Independent Researcher. +5 years researching in Probability and Statistics. +10 years teaching Mathematics courses at different educational levels.
 
 
 # Contact me
@@ -25,7 +25,7 @@ You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.git
 
 
 # Publications
-- Hinojosa-Calleja, A. (2022). Exact uniform modulus of continuity for q-isotropic Gaussian random fields. arXiv preprint arXiv:2210.08584.
+- Hinojosa-Calleja, A. (2023). Exact uniform modulus of continuity for q-isotropic Gaussian random fields. Stat. Probabil. Lett., 197 .
 - Hinojosa-Calleja, A. and Sanz-Solé, M. (2022). A linear stochastic biharmonic heat equation: hitting probabilities. Stoch. PDE: Anal. Comp., 10(3):735–756.
 - Hinojosa-Calleja, A. and Sanz-Solé, M. (2021). Anisotropic Gaussian random fields: criteria for hitting probabilities and applications. Stoch. PDE: Anal. Comp., 9(4):984–1030.
 
