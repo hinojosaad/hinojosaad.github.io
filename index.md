@@ -13,7 +13,7 @@ Data Scientist at [Gantabi One Click](https://gantabioneclick.com/en/). Substitu
 You can take a look of my CV [here](https://github.com/hinojosaad/hinojosaad.github.io/blob/main/CV.pdf) (Updated January 2023)
 
 # Projects under development 
-- [Don_Simon](https://huggingface.co/spaces/adhinojosa/don_Simon)) 
+- [Don_Simon](https://huggingface.co/spaces/adhinojosa/don_Simon)
 
 # Projects
 - [Salario_Gob_CDMX](https://github.com/hinojosaad/Salario_Gob_CDMX) Salaries analysis distribution of the Mexico City Government public servants.  (Power BI; in Spanish)
